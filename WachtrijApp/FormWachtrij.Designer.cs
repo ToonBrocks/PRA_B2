@@ -103,11 +103,12 @@
             // labelKar3
             // 
             this.labelKar3.AutoSize = true;
+            this.labelKar3.Font = new System.Drawing.Font("Calibri", 11.25F);
             this.labelKar3.Location = new System.Drawing.Point(29, 105);
             this.labelKar3.Name = "labelKar3";
-            this.labelKar3.Size = new System.Drawing.Size(44, 13);
+            this.labelKar3.Size = new System.Drawing.Size(57, 18);
             this.labelKar3.TabIndex = 10;
-            this.labelKar3.Text = "Kar3: ...";
+            this.labelKar3.Text = "Kar 3: ...";
             // 
             // FormWachtrij
             // 
