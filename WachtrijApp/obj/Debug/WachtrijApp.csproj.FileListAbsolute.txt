@@ -10,6 +10,7 @@ C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cac
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.exe
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.pdb
+<<<<<<< HEAD
 D:\PRBII_Python\PRA_B2\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
 D:\PRBII_Python\PRA_B2\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
 D:\PRBII_Python\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe.config
@@ -34,3 +35,19 @@ D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.Gener
 D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
 D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
+=======
+
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe.config
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.pdb
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csprojAssemblyReference.cache
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.FormWachtrij.resources
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.Properties.Resources.resources
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cache
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
+C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
+
+>>>>>>> 35e64897641a68c20af1e921e654075561b8901d

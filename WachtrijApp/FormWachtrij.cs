@@ -157,6 +157,14 @@ namespace WachtrijApp
             return "";
         }
 
+<<<<<<< HEAD
+=======
+        private void FormWachtrij_Load(object sender, EventArgs e)
+        {
+
+        }
+
+>>>>>>> 35e64897641a68c20af1e921e654075561b8901d
         private void labelTitel_Click(object sender, EventArgs e)
         {
 
