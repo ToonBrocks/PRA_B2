@@ -46,7 +46,7 @@
             this.labelTitel.Location = new System.Drawing.Point(35, 22);
             this.labelTitel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelTitel.Name = "labelTitel";
-            this.labelTitel.Size = new System.Drawing.Size(183, 41);
+            this.labelTitel.Size = new System.Drawing.Size(216, 49);
             this.labelTitel.TabIndex = 0;
             this.labelTitel.Text = "Debug Hero";
             // 
@@ -58,7 +58,6 @@
             this.labelWachttijd.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelWachttijd.Name = "labelWachttijd";
             this.labelWachttijd.Size = new System.Drawing.Size(151, 37);
-
             this.labelWachttijd.TabIndex = 4;
             this.labelWachttijd.Text = "Wachttijd";
             // 
@@ -70,7 +69,6 @@
             this.labelWachttijdMelding.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelWachttijdMelding.Name = "labelWachttijdMelding";
             this.labelWachttijdMelding.Size = new System.Drawing.Size(107, 28);
-
             this.labelWachttijdMelding.TabIndex = 5;
             this.labelWachttijdMelding.Text = "0 minuten";
             // 
@@ -82,7 +80,6 @@
             this.AttractieLogo.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.AttractieLogo.Name = "AttractieLogo";
             this.AttractieLogo.Size = new System.Drawing.Size(165, 217);
-
             this.AttractieLogo.TabIndex = 6;
             this.AttractieLogo.TabStop = false;
             this.AttractieLogo.Click += new System.EventHandler(this.AttractieLogo_Click);
@@ -95,7 +92,6 @@
             this.labelKar2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelKar2.Name = "labelKar2";
             this.labelKar2.Size = new System.Drawing.Size(89, 28);
-
             this.labelKar2.TabIndex = 8;
             this.labelKar2.Text = "Kar 2: ...";
             // 
@@ -107,7 +103,6 @@
             this.labelKar1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelKar1.Name = "labelKar1";
             this.labelKar1.Size = new System.Drawing.Size(89, 28);
-
             this.labelKar1.TabIndex = 9;
             this.labelKar1.Text = "Kar 1: ...";
             // 
@@ -126,7 +121,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Peru;
+            this.BackColor = System.Drawing.Color.Lime;
             this.ClientSize = new System.Drawing.Size(418, 349);
             this.Controls.Add(this.labelKar3);
             this.Controls.Add(this.labelKar1);
