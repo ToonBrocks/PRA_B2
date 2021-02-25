@@ -36,7 +36,6 @@ D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreC
 D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
 D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
 =======
-
 C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
 C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
 C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe.config
@@ -49,5 +48,4 @@ C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.cs
 C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
 C:\Users\Luke Aarts\Documents\GitHub\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
-
 >>>>>>> 35e64897641a68c20af1e921e654075561b8901d
