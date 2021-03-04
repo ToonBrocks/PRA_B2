@@ -10,3 +10,15 @@ C:\Programmeren\Python\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateR
 C:\Programmeren\Python\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 C:\Programmeren\Python\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
 C:\Programmeren\Python\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe.config
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.exe
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\bin\Debug\WachtrijApp.pdb
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csprojAssemblyReference.cache
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.FormWachtrij.resources
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.Properties.Resources.resources
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cache
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.exe
+D:\Git\rollercoaster-check\PRA_B2\WachtrijApp\obj\Debug\WachtrijApp.pdb

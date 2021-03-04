@@ -102,7 +102,7 @@ namespace WachtrijApp
 
         private void VerwerkAttractieStatusData()
         {
-            bool isUnderRepair = false;
+            bool isUnderRepair = true;
 
             //  Lees het XML AttractieStatus bestand uit welke de data van de karretjes uitleest.
             XmlDocument doc = new XmlDocument();
